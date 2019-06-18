@@ -1,2 +1,2 @@
 # Smartwhiz
-Education portal for searching colleges according to need
+Educational portal for searching colleges according to need
